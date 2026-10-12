@@ -1,3 +1,4 @@
 GitOps Student Project 
 version 1 
 Login feature implemented 
+Student profile feature 
